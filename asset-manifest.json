@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Insta-E-Rater/static/css/main.5d518fdf.css",
+    "main.js": "/Insta-E-Rater/static/js/main.0f90c0b5.js",
+    "static/js/787.f59a7457.chunk.js": "/Insta-E-Rater/static/js/787.f59a7457.chunk.js",
+    "static/media/1.jpg": "/Insta-E-Rater/static/media/1.76263cc828e705d157e6.jpg",
+    "index.html": "/Insta-E-Rater/index.html",
+    "main.5d518fdf.css.map": "/Insta-E-Rater/static/css/main.5d518fdf.css.map",
+    "main.0f90c0b5.js.map": "/Insta-E-Rater/static/js/main.0f90c0b5.js.map",
+    "787.f59a7457.chunk.js.map": "/Insta-E-Rater/static/js/787.f59a7457.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d518fdf.css",
+    "static/js/main.0f90c0b5.js"
+  ]
+}
